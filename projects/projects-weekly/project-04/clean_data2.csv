@@ -1,0 +1,478 @@
+,Title_New,city,state,company,ann_sal,stars,reviews,high_sal
+100,data scientist,Oakland,CA,Even,34142.0,,,0
+157,data scientist,San Francisco,CA,kWh Analytics,120000.0,,,1
+160,data scientist,Redwood City,CA,Workbridge Associates,115000.0,41.4,25.0,1
+199,senior data scientist,San Francisco,CA,Workbridge Associates,165000.0,41.4,25.0,1
+221,data engineer,San Francisco,CA,Workbridge Associates,135000.0,41.4,25.0,1
+239,data scientist,San Francisco,CA,Medlytic,110000.0,,,1
+245,data other,San Francisco,CA,International Antiviral Society-USA (IAS-USA),38000.0,,,0
+251,data analyst,Oakland,CA,Peralta Community College District,84750.0,54.0,11.0,0
+282,data scientist,Redwood City,CA,Jobspring Partners,140000.0,40.8,12.0,1
+303,data scientist,Brisbane,CA,Corporate Labs Technology,145000.0,,,1
+313,data scientist,Brisbane,CA,Corporate Labs Technology,145000.0,,,1
+336,data scientist,San Francisco,CA,Workbridge Associates,180000.0,41.4,25.0,1
+362,data scientist,Walnut Creek,CA,NelsonJobs,100000.0,,,1
+363,data other,San Francisco,CA,Galvanize,62500.0,60.0,2.0,0
+379,senior data scientist,San Francisco,CA,Workbridge Associates,165000.0,41.4,25.0,1
+428,misc,San Francisco,CA,Blue Owl,250000.0,,,1
+430,data analyst,San Francisco,CA,Workbridge Associates,115000.0,41.4,25.0,1
+497,data analyst,Berkeley,CA,University of California Berkeley,64990.0,51.6,109.0,0
+521,scientist,Berkeley,CA,University of California Berkeley,62850.0,51.6,109.0,0
+567,misc,Emeryville,CA,Nano Precision Medical,114000.0,,,1
+576,data other,San Francisco,CA,Workbridge Associates,160000.0,41.4,25.0,1
+596,data engineer,San Francisco,CA,Jobspring Partners,165000.0,40.8,12.0,1
+598,misc,Berkeley,CA,Lawrence Berkeley National Laboratory,76250.0,52.199997,60.0,0
+602,data scientist,San Francisco,CA,Workbridge Associates,145000.0,41.4,25.0,1
+609,misc,San Francisco,CA,NESC Staffing Corp,46000.0,,,0
+642,senior data scientist,San Francisco,CA,Workbridge Associates,145000.0,41.4,25.0,1
+648,data analyst,Berkeley,CA,University of California Berkeley,76150.0,51.6,109.0,0
+699,misc,Berkeley,CA,University of California Berkeley,70000.0,51.6,109.0,0
+724,scientist,South San Francisco,CA,Hart,60000.0,51.0,21.0,0
+726,data engineer,San Francisco,CA,HERO.jobs,200000.0,,,1
+792,data analyst,Berkeley,CA,University of California Berkeley,53800.0,51.6,109.0,0
+799,data engineer,San Mateo,CA,Workbridge Associates,117500.0,41.4,25.0,1
+851,data engineer,San Francisco,CA,Workbridge Associates,160000.0,41.4,25.0,1
+908,data engineer,San Francisco,CA,Jobspring Partners,172500.0,40.8,12.0,1
+909,scientist,San Francisco,CA,Harmin Services,60000.0,,,0
+937,data engineer,San Francisco,CA,Workbridge Associates,140000.0,41.4,25.0,1
+950,misc,San Francisco,CA,Jobspring Partners,145000.0,40.8,12.0,1
+998,data engineer,Foster City,CA,ZP Group,110000.0,,,1
+3,scientist,Atlanta,GA,Centers for Disease Control and Prevention,101553.5,54.0,64.0,1
+15,senior data scientist,Atlanta,GA,"eHire, LLC",150000.0,,,1
+20,scientist,Atlanta,GA,Centers for Disease Control and Prevention,120002.5,54.0,64.0,1
+21,senior data scientist,Atlanta,GA,Stackfolio,80000.0,,,0
+48,statistician,Atlanta,GA,Centers for Disease Control and Prevention,120002.5,54.0,64.0,1
+52,data analyst,Atlanta,GA,SearchBankingJobs,177500.0,,,1
+57,senior data scientist,Atlanta,GA,Analytic Recruiting,112500.0,51.0,2.0,1
+61,data scientist,Duluth,GA,The Centrics Group,96000.0,,,0
+66,scientist,Atlanta,GA,Centers for Disease Control and Prevention,120002.5,54.0,64.0,1
+70,data analyst,Norcross,GA,CI Radar,31000.0,,,0
+73,misc,Atlanta,GA,Centers for Disease Control and Prevention,101553.5,54.0,64.0,1
+97,statistician,Roswell,GA,Principle Solutions Group,130000.0,42.6,8.0,1
+105,scientist,Atlanta,GA,Emory University,69900.0,51.6,254.0,0
+137,misc,Decatur,GA,DeKalb Workforce Development,31000.0,42.0,10.0,0
+147,data analyst,Atlanta,GA,CSTE,51706.0,,,0
+179,data analyst,Atlanta,GA,Emory University,66700.0,51.6,254.0,0
+186,misc,Atlanta,GA,Centers for Disease Control and Prevention,141158.0,54.0,64.0,1
+190,data scientist,Norcross,GA,CareerBuilder,10000.0,51.6,106.0,0
+219,misc,Atlanta,GA,SRG,50000.0,42.6,16.0,0
+220,data analyst,Atlanta,GA,Interesse International Inc,65000.0,,,0
+227,scientist,Smyrna,GA,Lighthouse Recruiting,62500.0,,,0
+283,misc,Alpharetta,GA,Amana Academy Charter School,34999.5,,,0
+285,data other,Atlanta,GA,Synergy Search Group,80000.0,42.0,194.0,0
+22,scientist,Austin,TX,University of Texas at Austin,71400.0,53.4,403.0,0
+26,data analyst,Austin,TX,University of Texas at Austin,66492.0,53.4,403.0,0
+32,data analyst,Austin,TX,Health & Human Services Comm,63990.0,,,0
+37,data analyst,Austin,TX,Health & Human Services Comm,73200.0,,,0
+38,data scientist,Austin,TX,University of Texas at Austin,102498.0,53.4,403.0,1
+39,data analyst,Austin,TX,University of Texas at Austin,58992.0,53.4,403.0,0
+40,data scientist,Austin,TX,Health & Human Services Comm,83298.0,,,0
+41,statistician,Austin,TX,Texas Department of Public Safety,48720.0,44.4,98.0,0
+42,senior data scientist,Austin,TX,All-In Analytics,150000.0,,,1
+43,data scientist,Austin,TX,University of Texas at Austin,102498.0,53.4,403.0,1
+45,scientist,Austin,TX,University of Texas at Austin,71400.0,53.4,403.0,0
+62,data analyst,Austin,TX,University of Texas at Austin,34008.0,53.4,403.0,0
+66,data engineer,Austin,TX,Volt Workforce Solutions,135000.0,43.2,1513.0,1
+67,misc,Austin,TX,Dept of State Health Services,56400.0,51.6,18.0,0
+77,misc,Austin,TX,XOR Data Exchange,90000.0,,,0
+86,scientist,Austin,TX,University of Texas at Austin,71400.0,53.4,403.0,0
+98,scientist,Austin,TX,Texas Department of Public Safety,54294.0,44.4,98.0,0
+111,scientist,Austin,TX,University of Texas at Austin,102498.0,53.4,403.0,1
+129,scientist,Austin,TX,University of Texas at Austin,102498.0,,,1
+137,scientist,Austin,TX,City of Austin,53240.0,52.800003,85.0,0
+151,scientist,Austin,TX,University of Texas at Austin,102498.0,53.4,403.0,1
+154,scientist,Austin,TX,Lighthouse Recruiting,70000.0,,,0
+161,misc,Austin,TX,University of Texas at Austin,78000.0,53.4,403.0,0
+16,data scientist,Cambridge,MA,Strategic Employment Partners,112500.0,,,1
+19,data scientist,Boston,MA,Jobspring Partners,135000.0,40.8,12.0,1
+20,data scientist,Boston,MA,Mayovika LLC,136000.0,,,1
+22,data engineer,Cambridge,MA,Aequor Technologies,110000.0,40.2,5.0,1
+49,senior data scientist,Boston,MA,Jobspring Partners,150000.0,40.8,12.0,1
+87,data scientist,Cambridge,MA,The Centrics Group,110000.0,,,1
+112,data analyst,Boston,MA,Northeastern University,60000.0,52.800003,191.0,0
+136,data scientist,Boston,MA,"Human Capital Resource, LLC.",140000.0,,,1
+138,data engineer,Boston,MA,Jobspring Partners,100000.0,40.8,12.0,1
+145,scientist,Boston,MA,Fortira,60000.0,,,0
+147,senior data scientist,Cambridge,MA,Strategic Employment Partners,150000.0,,,1
+148,data analyst,Wilmington,MA,US Engineering Technical Services,110000.0,,,1
+151,data engineer,Cambridge,MA,The Bivium Group,125000.0,,,1
+182,data analyst,Boston,MA,Commonwealth of Massachusetts,57786.0,51.0,135.0,0
+190,data analyst,Boston,MA,Selby Jennings,97500.0,,,1
+222,data analyst,Boston,MA,Fanning Personnel,95000.0,,,0
+265,data engineer,Boston,MA,Harnham,160000.0,,,1
+275,data engineer,Cambridge,MA,Neurable,105000.0,,,1
+298,scientist,Norwood,MA,Informatic Technologies Inc,84000.0,,,0
+307,misc,Boston,MA,The Bivium Group,140000.0,,,1
+308,data scientist,Cambridge,MA,The Bivium Group,115000.0,,,1
+321,data analyst,Boston,MA,Analytic Recruiting,110000.0,51.0,2.0,1
+323,data engineer,Boston,MA,"DTS - NLP, Machine Learning",200000.0,,,1
+331,data other,Quincy,MA,Interpro Inc,120000.0,,,1
+342,data analyst,Andover,MA,GCM,56000.0,51.6,13.0,0
+345,misc,Maynard,MA,Commonwealth of Massachusetts,42421.5,51.0,135.0,0
+352,misc,Boston,MA,Liberty Mutual,134950.0,43.8,1218.0,1
+362,misc,Boston,MA,Liberty Mutual,112750.0,43.8,1218.0,1
+428,misc,Bedford,MA,Bedford Research Foundation,42500.0,,,0
+435,statistician,Boston,MA,"Human Capital Resource, LLC.",140000.0,,,1
+444,senior data scientist,Boston,MA,Jobspring Partners,140000.0,40.8,12.0,1
+460,data analyst,Hopkinton,MA,Liberty Mutual,116000.0,43.8,1218.0,1
+493,data engineer,Boston,MA,Workbridge Associates,140000.0,41.4,25.0,1
+510,data analyst,Boston,MA,Commonwealth of Massachusetts,78928.5,51.0,135.0,0
+575,data analyst,Boston,MA,Execu | Search,130000.0,43.8,59.0,1
+621,data analyst,Boston,MA,Commonwealth of Massachusetts,64942.0,51.0,135.0,0
+631,statistician,Framingham,MA,IconsultUS,86000.0,,,0
+647,data engineer,Framingham,MA,Big Wednesday Digital,87500.0,,,0
+661,misc,Boston,MA,Commonwealth of Massachusetts,66111.0,51.0,135.0,0
+711,scientist,Malden,MA,Commonwealth of Massachusetts,81867.5,51.0,135.0,0
+771,misc,Boston,MA,BIG 6 Search International,212500.0,,,1
+814,misc,Boston,MA,The Bivium Group,125000.0,,,1
+831,data analyst,Boston,MA,John Leonard,72500.0,42.0,6.0,0
+845,scientist,Woburn,MA,AR Pharma,50000.0,,,0
+851,misc,Boston,MA,The Bivium Group,120000.0,,,1
+872,misc,Cambridge,MA,The Bivium Group,102500.0,,,1
+876,misc,Lexington,MA,Planet Pharma,320000.0,,,1
+891,misc,Boston,MA,Jobspring Partners,105000.0,40.8,12.0,1
+900,data analyst,Boston,MA,Selby Jennings,120000.0,,,1
+901,data analyst,Boston,MA,Selby Jennings,120000.0,,,1
+906,misc,Boston,MA,Jobspring Partners,120000.0,40.8,12.0,1
+934,misc,Boston,MA,Jobspring Partners,150000.0,40.8,12.0,1
+41,data scientist,Chicago,IL,Hirewell,120000.0,,,1
+42,data scientist,Chicago,IL,Workbridge Associates,105000.0,41.4,25.0,1
+43,data engineer,Chicago,IL,Jobspring Partners,110000.0,40.8,12.0,1
+49,data scientist,Chicago,IL,Workbridge Associates,95000.0,41.4,25.0,0
+55,data analyst,Chicago,IL,GinasTechJobs.com,180000.0,,,1
+66,data scientist,Chicago,IL,Workbridge Associates,110000.0,41.4,25.0,1
+95,scientist,Chicago,IL,Metropolitan Water Reclamation District of Greater...,115185.5,51.0,7.0,1
+102,data scientist,Deerfield,IL,Hirewell,125000.0,,,1
+108,data analyst,Chicago,IL,Huxley Banking & Financial Services,110000.0,,,1
+109,data scientist,Chicago,IL,Selby Jennings,150000.0,,,1
+120,senior data scientist,Chicago,IL,Analytic Recruiting,140000.0,51.0,2.0,1
+126,senior data scientist,Chicago,IL,Workbridge Associates,180000.0,41.4,25.0,1
+128,data analyst,Chicago,IL,Silva Capital Management,125000.0,,,1
+143,data analyst,Chicago,IL,S.C. International,80000.0,,,0
+155,data analyst,Chicago,IL,Mission Measurement,40000.0,,,0
+161,senior data scientist,Chicago,IL,Workbridge Associates,132500.0,41.4,25.0,1
+164,data scientist,Chicago,IL,Jobspring Partners,115000.0,40.8,12.0,1
+172,data analyst,Chicago,IL,InsightsNow Inc.,50000.0,,,0
+181,senior data scientist,Chicago,IL,Workbridge Associates,200000.0,41.4,25.0,1
+187,data analyst,Evanston,IL,Smith Hanley Associates,67500.0,51.6,12.0,0
+208,misc,Chicago,IL,Cook County Health & Hospitals System,55220.0,52.800003,8.0,0
+226,data analyst,Chicago,IL,Creative Circle,70000.0,,,0
+233,data other,Chicago,IL,Jobspring Partners,87500.0,40.8,12.0,0
+263,scientist,Chicago,IL,Workbridge Associates,145000.0,41.4,25.0,1
+277,scientist,Chicago,IL,Metropolitan Water Reclamation District of Greater...,128016.0,51.0,7.0,1
+278,data analyst,Chicago,IL,The LaSalle Network,90000.0,41.4,50.0,0
+290,data analyst,Chicago,IL,Smith Hanley Associates,82500.0,51.6,12.0,0
+292,senior data scientist,Des Plaines,IL,Workbridge Associates,155000.0,41.4,25.0,1
+357,scientist,Chicago,IL,Food Management Search,85000.0,,,0
+367,data other,Chicago,IL,Selby Jennings,150000.0,,,1
+376,misc,Evanston,IL,Jobspring Partners,170000.0,40.8,12.0,1
+427,data other,Chicago,IL,Jobspring Partners,85000.0,40.8,12.0,0
+428,data other,Chicago,IL,Jobspring Partners,87500.0,40.8,12.0,0
+433,scientist,Chicago,IL,Jobspring Partners,90000.0,40.8,12.0,0
+438,misc,Deerfield,IL,Momentum Scientific,33000.0,,,0
+446,data other,Chicago,IL,Jobspring Partners,87500.0,40.8,12.0,0
+50,data scientist,New York,NY,Averity,85000.0,,,0
+64,data scientist,New York,NY,Big Cloud,150000.0,,,1
+84,senior data scientist,New York,NY,Beeswax,147500.0,,,1
+85,data analyst,New York,NY,Third Bridge,48000.0,42.0,2.0,0
+104,data scientist,New York,NY,Workbridge Associates,120000.0,41.4,25.0,1
+119,senior data scientist,Long Island City,NY,Averity,100000.0,,,1
+120,data scientist,Manhattan,NY,DEPARTMENT OF TRANSPORTATION,71814.5,52.199997,501.0,0
+121,data scientist,New York,NY,Wade & Wendy,100000.0,,,1
+140,data engineer,New York,NY,DTS - Machine Learning Practice,200000.0,,,1
+144,data scientist,New York,NY,Harnham,150000.0,,,1
+152,data analyst,Manhattan,NY,HRA/DEPT OF SOCIAL SERVICES,77975.0,,,0
+156,senior data scientist,New York,NY,Averity,150000.0,,,1
+162,senior data scientist,New York,NY,Averity,150000.0,,,1
+165,data engineer,New York,NY,Averity,215000.0,,,1
+172,data analyst,New York,NY,StreetID,120000.0,,,1
+180,data scientist,New York,NY,Princeton Consulting,150000.0,,,1
+187,data engineer,New York,NY,Averity,215000.0,,,1
+195,data scientist,New York,NY,Selby Jennings,135000.0,,,1
+198,data analyst,New York,NY,Averity,225000.0,,,1
+229,data scientist,New York,NY,VROOM,115000.0,,,1
+236,misc,New York,NY,Selby Jennings,200000.0,,,1
+267,data analyst,New York,NY,Parker and Lynch,87500.0,42.0,8.0,0
+270,statistician,New York,NY,POLICE DEPARTMENT,51363.0,51.0,33.0,0
+273,data scientist,Manhattan,NY,CONSUMER AFFAIRS,65977.0,54.0,2.0,0
+285,data scientist,New York,NY,TW Staffing Solutions,199000.0,,,1
+287,data analyst,New York,NY,Pro Partners Staffing,80000.0,,,0
+295,data scientist,New York,NY,Workbridge Associates,125000.0,41.4,25.0,1
+309,data analyst,New York,NY,DEPT OF ENVIRONMENT PROTECTION,79249.5,,,0
+321,data analyst,New York,NY,DEPT OF HEALTH/MENTAL HYGIENE,76941.5,51.0,5.0,0
+339,misc,Manhattan,NY,DEPT OF PARKS & RECREATION,75143.0,,,0
+340,misc,New York,NY,Columbia University,50000.0,52.199997,325.0,0
+348,data analyst,Manhattan,NY,The Custom Group of Companies,60000.0,,,0
+353,data analyst,Manhattan,NY,DEPT OF HEALTH/MENTAL HYGIENE,64055.5,51.0,5.0,0
+354,statistician,Long Island City,NY,New York City Department of Health and Mental Hygi...,88331.0,52.800003,35.0,0
+370,data analyst,New York,NY,RAZR Recruiting + Consulting,80000.0,,,0
+371,data scientist,New York,NY,"The Hagan-Ricci Group, Inc.",250000.0,,,1
+372,data scientist,New York,NY,Integrated Management Resources,120000.0,,,1
+375,data analyst,Manhattan,NY,HRA/DEPT OF SOCIAL SERVICES,59984.5,,,0
+391,data analyst,New York,NY,JEG Search,60000.0,,,0
+392,senior data scientist,New York,NY,Net-Consultants,160000.0,,,1
+396,data engineer,New York,NY,ingenium,200000.0,40.8,6.0,1
+408,data engineer,New York,NY,Harnham,110000.0,,,1
+424,senior data scientist,New York,NY,Averity,200000.0,,,1
+430,misc,Manhattan,NY,DEPT OF HEALTH/MENTAL HYGIENE,79249.5,51.0,5.0,0
+437,data analyst,New York,NY,DEPT OF HEALTH/MENTAL HYGIENE,86750.0,51.0,5.0,0
+448,senior data scientist,New York,NY,Workbridge Associates,125000.0,41.4,25.0,1
+455,data other,New York,NY,Harnham,190000.0,,,1
+456,senior data scientist,New York,NY,Averity,175000.0,,,1
+457,scientist,New York,NY,Laguna Source,100000.0,,,1
+460,misc,New York,NY,Workbridge Associates,100000.0,41.4,25.0,1
+473,data analyst,New York,NY,Datacom Technology Group,200000.0,,,1
+476,senior data scientist,New York,NY,Averity,127500.0,,,1
+484,data scientist,New York,NY,Harnham,220000.0,,,1
+491,data analyst,Manhattan,NY,DEPARTMENT OF FINANCE,74119.5,51.0,66.0,0
+495,misc,Long Island City,NY,New York City Department of Health and Mental Hygi...,68239.0,52.800003,35.0,0
+521,data scientist,New York,NY,Harnham,180000.0,,,1
+528,misc,Manhattan,NY,DEPT OF YOUTH & COMM DEV SRVS,76941.5,,,0
+538,data scientist,New York,NY,Geode Executive Search,200000.0,,,1
+546,data analyst,New York,NY,Univision communications inc,55000.0,42.6,32.0,0
+547,misc,New York,NY,NYC Department of Finance,73357.0,,,0
+559,senior data scientist,New York,NY,POLICE DEPARTMENT,90981.0,51.0,33.0,0
+560,scientist,New York,NY,Centers for Disease Control and Prevention,117437.5,54.0,64.0,1
+561,data analyst,New York,NY,Selby Jennings,175000.0,,,1
+578,misc,New York,NY,Execu | Search,125000.0,43.8,59.0,1
+586,misc,New York,NY,ADMIN FOR CHILDREN'S SVCS,79249.5,42.0,6.0,0
+599,data analyst,New York,NY,Selby Jennings,97500.0,,,1
+613,data scientist,New York,NY,Talon,120000.0,43.8,6.0,1
+616,statistician,Manhattan,NY,DEPT OF INFO TECH & TELECOMM,79025.5,,,0
+619,data analyst,New York,NY,"Preqin,Inc.",45625.0,,,0
+630,data analyst,New York,NY,Investment Management Services,65000.0,,,0
+651,data analyst,New York,NY,Next Generation Recruitment & Staffing Agency,160000.0,,,1
+690,misc,New York,NY,Columbia University,54400.0,52.199997,325.0,0
+691,senior data scientist,New York,NY,Averity,140000.0,,,1
+703,data scientist,New York,NY,Selby Jennings,150000.0,,,1
+704,data analyst,New York,NY,Selby Jennings,95000.0,,,0
+709,data analyst,Manhattan,NY,OFFICE OF MANAGEMENT & BUDGET,78510.5,60.0,2.0,0
+710,senior data scientist,New York,NY,Workbridge Associates,165000.0,41.4,25.0,1
+723,misc,New York,NY,Columbia University,40480.0,52.199997,325.0,0
+728,data analyst,New York,NY,Selby Jennings,212500.0,,,1
+749,statistician,Elizabeth,NJ,ETS Inc.,115000.0,,,1
+759,data engineer,New York,NY,Averity,100000.0,,,1
+765,senior data scientist,Union,NJ,Averity,107500.0,,,1
+779,scientist,New York,NY,Research Foundation of The City University of New...,61500.0,52.800003,8.0,0
+780,data scientist,New York,NY,Selby Jennings,157500.0,,,1
+781,data analyst,New York,NY,Abacus Group,105000.0,52.199997,6.0,1
+788,data analyst,Orangeburg,NY,"Mental Health, Office of",26143.0,,,0
+825,misc,New York,NY,ADMIN FOR CHILDREN'S SVCS,97866.5,42.0,6.0,1
+837,statistician,New York,NY,Averity,107500.0,,,1
+838,misc,Manhattan,NY,DEPT OF HEALTH/MENTAL HYGIENE,88331.0,51.0,5.0,0
+874,data analyst,New York,NY,Research Foundation of The City University of New...,52500.0,52.800003,8.0,0
+876,misc,Manhattan,NY,DEPARTMENT OF FINANCE,73357.0,51.0,66.0,0
+879,data analyst,Rockleigh,NJ,Takasago International Corp (USA),50000.0,,,0
+887,misc,Manhattan,NY,DEPT OF HEALTH/MENTAL HYGIENE,64055.5,51.0,5.0,0
+896,misc,New York,NY,ADMIN FOR CHILDREN'S SVCS,76941.5,42.0,6.0,0
+903,data other,New York,NY,Selby Jennings,175000.0,,,1
+909,misc,New York,NY,VROOM,120000.0,,,1
+917,data other,New York,NY,Green Key Resources,195000.0,52.800003,28.0,1
+918,misc,New York,NY,ADMIN FOR CHILDREN'S SVCS,76941.5,42.0,6.0,0
+919,misc,New York,NY,Lighthouse Recruiting,58000.0,,,0
+925,misc,New York,NY,Columbia University,39400.0,52.199997,325.0,0
+928,senior data scientist,New York,NY,Laguna Source,124500.0,,,1
+939,data scientist,New York,NY,Selby Jennings,175000.0,,,1
+949,misc,New York,NY,Columbia University,44300.0,52.199997,325.0,0
+955,data analyst,New York,NY,Execu | Search,200000.0,43.8,59.0,1
+978,data analyst,New York,NY,Green Key Resources,195000.0,52.800003,28.0,1
+23,data engineer,Seattle,WA,HERO.Jobs,160000.0,,,1
+42,data other,Bellevue,WA,Z2 DataLabs,300000.0,,,1
+54,misc,Seattle,WA,University of Washington,51138.0,52.199997,331.0,0
+59,senior data scientist,Seattle,WA,Cutting Edge Medical Diagnostics,140000.0,,,1
+90,scientist,Seattle,WA,All-In Analytics,125000.0,,,1
+136,misc,Seattle,WA,University of Washington,50136.0,52.199997,331.0,0
+167,data scientist,Seattle,WA,Harvey Nash USA,125000.0,42.6,17.0,1
+183,misc,Bellevue,WA,State of Washington,55548.0,42.0,76.0,0
+188,data analyst,Seattle,WA,BrunswikSt.,150000.0,,,1
+259,data scientist,Seattle,WA,Dynamic Staffing Inc.,125000.0,,,1
+261,senior data scientist,Seattle,WA,University of Washington Medical Center,75366.0,52.199997,331.0,0
+290,scientist,Seattle,WA,University of Washington,63012.0,52.199997,331.0,0
+309,scientist,Seattle,WA,University of Washington,70284.0,52.199997,331.0,0
+328,senior data scientist,Seattle,WA,University of Washington,75366.0,52.199997,331.0,0
+344,data other,Seattle,WA,University of Washington Medical Center,43140.0,52.199997,331.0,0
+356,data analyst,Redmond,WA,"NuWest Group Holdings, LLC",55000.0,,,0
+370,misc,Seattle,WA,University of Washington Medical Center,51138.0,52.199997,331.0,0
+431,misc,Seattle,WA,University of Washington,59304.0,52.199997,331.0,0
+487,scientist,Seattle,WA,University of Washington Medical Center,70284.0,52.199997,331.0,0
+501,misc,Seattle,WA,University of Washington Medical Center,59304.0,52.199997,331.0,0
+504,misc,Bellevue,WA,NextGen Global Resources LLC,170000.0,,,1
+505,misc,Seattle,WA,University of Washington,32994.0,52.199997,331.0,0
+518,scientist,Seattle,WA,University of Washington Medical Center,63012.0,52.199997,331.0,0
+543,misc,Seattle,WA,University of Washington Medical Center,33654.0,52.199997,331.0,0
+600,misc,Seattle,WA,University of Washington,43140.0,52.199997,331.0,0
+614,scientist,Seattle,WA,University of Washington Medical Center,63012.0,52.199997,331.0,0
+647,misc,Seattle,WA,University of Washington Medical Center,50136.0,52.199997,331.0,0
+650,data analyst,Bellevue,WA,TOP San Francisco,70000.0,,,0
+669,misc,Seattle,WA,University of Washington Medical Center,43140.0,52.199997,331.0,0
+741,misc,Seattle,WA,University of Washington Medical Center,61308.0,52.199997,331.0,0
+744,misc,Seattle,WA,University of Washington Medical Center,33996.0,52.199997,331.0,0
+779,misc,Seattle,WA,University of Washington,75366.0,52.199997,331.0,0
+780,misc,Seattle,WA,University of Washington Medical Center,75366.0,52.199997,331.0,0
+7,data analyst,Denver,CO,Denver Public Schools,63339.0,43.8,157.0,0
+11,senior data scientist,Boulder,CO,CaliberMind,120000.0,,,1
+14,data analyst,Denver,CO,Denver Public Schools,67380.0,43.8,157.0,0
+26,misc,Aurora,CO,University of Colorado,56500.0,51.6,141.0,0
+40,misc,Denver,CO,xentity corporation,111000.0,,,1
+42,scientist,Boulder,CO,University of Colorado,50500.0,51.6,141.0,0
+48,data other,Denver,CO,10Roof Technology,105000.0,,,1
+89,scientist,Denver,CO,Lauren Enterprises,35000.0,,,0
+100,statistician,Denver,CO,Denver Health,66654.0,42.0,88.0,0
+138,scientist,Aurora,CO,MycoTechnology,50000.0,,,0
+140,data analyst,Denver,CO,Denver Health,93645.0,42.0,88.0,0
+142,data analyst,Denver,CO,Colorado Department of Human Services,57534.0,,,0
+145,misc,Aurora,CO,University of Colorado,68000.0,51.6,141.0,0
+157,misc,Denver,CO,Denver Health,88091.0,42.0,88.0,0
+241,misc,Denver,CO,Potatoes USA,85000.0,,,0
+309,data analyst,Denver,CO,Colorado Community College System,55000.0,40.8,8.0,0
+9,misc,Houston,TX,Baylor College of Medicine,92500.0,51.0,175.0,0
+23,data analyst,Houston,TX,SearchBankingJobs,177500.0,,,1
+28,data analyst,Houston,TX,Baylor College of Medicine,72000.0,51.0,175.0,0
+31,scientist,Houston,TX,MD Anderson Cancer Center,64750.0,51.6,251.0,0
+35,data analyst,Houston,TX,Baylor College of Medicine,54590.0,51.0,175.0,0
+51,misc,Houston,TX,Baylor College of Medicine,72120.0,51.0,175.0,0
+52,data scientist,Houston,TX,Clearpoint,16125.0,42.0,12.0,0
+54,misc,Houston,TX,Baylor College of Medicine,80500.0,51.0,175.0,0
+58,data analyst,Houston,TX,Oscar Technology,160000.0,,,1
+68,misc,Houston,TX,Rekruiters,250000.0,,,1
+70,data analyst,Houston,TX,Baylor College of Medicine,65000.0,51.0,175.0,0
+76,misc,Houston,TX,Baylor College of Medicine,60998.0,51.0,175.0,0
+80,scientist,Houston,TX,Texas Department of Public Safety,54294.0,44.4,98.0,0
+84,misc,Houston,TX,MD Anderson Cancer Center,83500.0,51.6,251.0,0
+127,data analyst,Houston,TX,Selby Jennings,97500.0,,,1
+131,misc,Houston,TX,Texas A&M University,70000.0,53.4,494.0,0
+136,misc,Houston,TX,Selby Jennings,100000.0,,,1
+36,data analyst,Chatsworth,CA,Phillips Graduate University,55000.0,,,0
+57,senior data scientist,Los Angeles,CA,California State University,102636.0,53.4,448.0,1
+61,scientist,Los Angeles,CA,Hain Solution,12000.0,,,0
+68,data analyst,Los Angeles,CA,Selby Jennings,120000.0,,,1
+77,senior data scientist,Los Angeles,CA,"California State University, Los Angeles",102636.0,53.4,7.0,1
+113,data analyst,Los Angeles,CA,Tessie Cleveland Community Service Corporation,56000.0,,,0
+154,data analyst,Los Angeles,CA,Los Angeles County Department of Human Resources,79758.5,,,0
+164,data other,Los Angeles,CA,Los Angeles County Department of Human Resources,88765.0,,,0
+177,statistician,Los Angeles,CA,Los Angeles County Human Resources,42566.5,,,0
+180,data analyst,Los Angeles,CA,Los Angeles County Department of Human Resources,104708.5,,,1
+182,statistician,Los Angeles,CA,Los Angeles County Department of Human Resources,42566.5,,,0
+186,data analyst,Los Angeles,CA,First 5 LA,68772.0,39.0,6.0,0
+187,scientist,Los Angeles,CA,Compassionate Oncology Medical Group,110000.0,,,1
+254,data other,Santa Monica,CA,Career Movement,185000.0,,,1
+282,scientist,Los Angeles,CA,"Exact Staff, Inc.",90000.0,43.2,89.0,0
+284,misc,Los Angeles,CA,LT,180000.0,43.8,9.0,1
+321,misc,Long Beach,CA,"City of Long Beach, CA",60170.0,54.0,2.0,0
+341,misc,Azusa,CA,The Staffing Solutions Group,26000.0,,,0
+366,misc,Los Angeles,CA,md laboratory,90000.0,,,0
+390,scientist,Los Angeles,CA,Los Angeles County Department of Human Resources,73860.0,,,0
+395,scientist,Los Angeles,CA,CSU Northridge,61250.0,54.0,12.0,0
+413,scientist,Los Angeles,CA,Los Angeles County Department of Human Resources,75864.0,,,0
+425,data analyst,Los Angeles,CA,Los Angeles County Department of Human Resources,56072.0,,,0
+430,data analyst,Los Angeles,CA,Los Angeles County Human Resources,56072.0,,,0
+435,misc,Los Angeles,CA,LT,200000.0,43.8,9.0,1
+441,data other,Los Angeles,CA,Los Angeles Unified School District,94900.0,51.6,649.0,0
+442,scientist,Pasadena,CA,Lighthouse Recruiting,95000.0,,,0
+451,data analyst,Los Angeles,CA,Los Angeles County Human Resources,84495.5,,,0
+454,data analyst,Los Angeles,CA,Los Angeles County Department of Human Resources,84495.5,,,0
+8,misc,Portland,OR,Oregon Health & Science University,83000.0,51.6,111.0,0
+12,data analyst,Portland,OR,Portland State University,60000.0,52.199997,86.0,0
+30,misc,Portland,OR,Cascade Insights,45000.0,,,0
+49,scientist,Portland,OR,State of Oregon,64638.0,51.0,130.0,0
+54,misc,Portland,OR,The Catlin Gabel School,30000.0,,,0
+89,data analyst,Vancouver,WA,Ajilon,30000.0,42.0,2650.0,0
+3,data analyst,Research Triangle Park,NC,Oak Ridge Associated Universities,66740.0,43.2,15.0,0
+6,data scientist,Raleigh,NC,Veredus,110000.0,43.8,5.0,1
+9,scientist,Research Triangle Park,NC,Hunter International,68000.0,54.0,13.0,0
+13,senior data scientist,Research Triangle Park,NC,All-In Analytics,150000.0,,,1
+22,senior data scientist,Morrisville,NC,JBCconnect,160000.0,,,1
+26,data other,Research Triangle Park,NC,Oak Ridge Associated Universities,41300.0,43.2,15.0,0
+51,data other,Wake County,NC,North Carolina Office of State Human Resources,16500.0,,,0
+53,data other,Research Triangle Park,NC,Oak Ridge Associated Universities,41300.0,43.2,15.0,0
+69,misc,Raleigh,NC,North Carolina State University,42389.0,52.199997,419.0,0
+72,data other,Wake County,NC,State of North Carolina,16500.0,43.2,91.0,0
+77,misc,Wake County,NC,State of North Carolina,16500.0,43.2,91.0,0
+82,misc,Raleigh-Durham,NC,InVentiv Health Clinical,90000.0,,,0
+94,misc,Durham,NC,On-Board Services,62000.0,40.8,6.0,0
+105,scientist,Raleigh-Durham,NC,New Hope Urgent Care,50000.0,,,0
+113,data engineer,Raleigh-Durham,NC,PeopleScout,125000.0,,,1
+123,misc,Wake County,NC,North Carolina Office of State Human Resources,16500.0,,,0
+134,scientist,Durham,NC,Piper Clinical Solutions,46000.0,,,0
+136,misc,Research Triangle Park,NC,Oak Ridge Associated Universities,55440.0,43.2,15.0,0
+137,misc,Raleigh,NC,North Carolina State University,74022.0,52.199997,419.0,0
+147,misc,Research Triangle Park,NC,Oak Ridge Associated Universities,55440.0,43.2,15.0,0
+155,scientist,Raleigh,NC,North Carolina State University,40000.0,52.199997,419.0,0
+166,misc,Research Triangle Park,NC,Hunter International,40000.0,54.0,13.0,0
+174,misc,Research Triangle Park,NC,Oak Ridge Associated Universities,41300.0,43.2,15.0,0
+188,misc,Research Triangle Park,NC,Oak Ridge Associated Universities,41300.0,43.2,15.0,0
+201,scientist,Durham,NC,ZP Group,58000.0,,,0
+202,misc,Raleigh,NC,North Carolina State University,58442.0,52.199997,419.0,0
+206,misc,Research Triangle Park,NC,Oak Ridge Associated Universities,41300.0,43.2,15.0,0
+244,data other,Research Triangle Park,NC,Oak Ridge Associated Universities,41300.0,43.2,15.0,0
+5,data scientist,Salt Lake City,UT,TEKSystems,120000.0,44.4,1371.0,1
+7,data analyst,Salt Lake City,UT,University of Utah,38300.0,52.800003,233.0,0
+8,data analyst,Salt Lake City,UT,University of Utah,69000.0,52.800003,233.0,0
+16,data analyst,West Valley City,UT,West Valley College,79542.0,55.199997,12.0,0
+17,statistician,Salt Lake City,UT,University of Utah,56000.0,52.800003,233.0,0
+22,scientist,Salt Lake City,UT,University of Utah,56000.0,52.800003,233.0,0
+27,misc,Salt Lake City,UT,"H.W. Lochner, Inc.",70000.0,,,0
+28,misc,Salt Lake City,UT,University of Utah,47500.0,52.800003,233.0,0
+47,misc,Salt Lake City,UT,University of Utah,45548.0,52.800003,233.0,0
+50,misc,Salt Lake City,UT,University of Utah,87743.5,52.800003,233.0,0
+51,misc,Murray,UT,Intermountain Healthcare,42520.0,51.6,284.0,0
+57,misc,Salt Lake City,UT,University of Utah,88000.0,52.800003,233.0,0
+60,misc,Salt Lake City,UT,University of Utah,58300.0,52.800003,233.0,0
+64,misc,Murray,UT,Intermountain Healthcare,42520.0,51.6,284.0,0
+66,misc,Salt Lake City,UT,University of Utah,21000.0,52.800003,233.0,0
+68,statistician,Salt Lake City,UT,Salt Lake Community College,20310.0,52.199997,88.0,0
+0,data scientist,Greenbelt,MD,"ADNET Systems, Inc.",75000.0,54.0,4.0,0
+26,data other,Washington,DC,Selby Jennings,137500.0,,,1
+84,data scientist,McLean,VA,Jobspring Partners,145000.0,40.8,12.0,1
+90,statistician,Washington,DC,U.S. Department of Labor,98642.0,51.0,264.0,1
+103,misc,Washington,DC,Global Solutions Network,47300.0,,,0
+115,misc,Greenbelt,MD,"ADNET Systems, Inc.",80000.0,54.0,4.0,0
+126,data scientist,Fort George G Meade,MD,National Security Agency,91581.5,53.4,78.0,0
+131,data scientist,Alexandria,VA,Selby Jennings,150000.0,,,1
+144,data analyst,Largo,MD,Prince George's Community College,63863.0,52.800003,60.0,0
+156,statistician,Washington,DC,U.S. Department of Labor,105969.5,51.0,264.0,1
+165,misc,Washington,DC,Dept of Forensic Sciences,92736.5,,,0
+206,data other,Washington,DC,Cardinal Consulting Group,65000.0,,,0
+209,data analyst,Washington,DC,Smart Electric Power Alliance,72500.0,,,0
+291,misc,College Park,MD,University of Maryland,65000.0,52.199997,409.0,0
+297,scientist,Rockville,MD,Genius Pool,80000.0,,,0
+298,statistician,Vienna,VA,MicroHealth LLC,20000.0,,,0
+309,data scientist,Washington,DC,"Tygart Technology, Inc.",140000.0,,,1
+313,misc,Washington,DC,Consumer Financial Protection Bureau,83627.5,42.6,20.0,0
+316,data other,Washington,DC,Computer Futures,210000.0,52.800003,6.0,1
+338,data engineer,Washington,DC,"Elite Technical Services, Inc.",155000.0,,,1
+360,data scientist,Washington,DC,Central Intelligence Agency,111319.0,52.800003,83.0,1
+362,data analyst,Washington,DC,Creative Circle,40000.0,,,0
+363,data analyst,Washington,DC,Striker Pierce LLC,36000.0,,,0
+387,scientist,Fort George G Meade,MD,National Security Agency,75091.5,53.4,78.0,0
+405,data scientist,Fort George G Meade,MD,National Security Agency,116850.0,53.4,78.0,1
+409,misc,Bethesda,MD,Global Solutions Network,61160.0,,,0
+449,data other,Washington,DC,Harnham,300000.0,,,1
+461,data engineer,Bolling AFB,DC,Elite Technical Services,155000.0,,,1
+494,misc,Bethesda,MD,"Infused Solutions, LLC",41860.0,39.0,3.0,0
+526,data analyst,Washington,DC,Legal Services Corporation,95041.5,55.199997,3.0,0
+527,scientist,Alexandria,VA,TULKORP.,135000.0,,,1
+570,data analyst,Fort George G Meade,MD,National Security Agency,75091.5,53.4,78.0,0
+571,senior data scientist,Washington,DC,Selby Jennings,120000.0,,,1
+600,data analyst,McLean,VA,"Innovative Analytics & Training, LLC",85000.0,,,0
+655,misc,Bethesda,MD,"Calloway & Associates, Inc.",68020.0,,,0
+659,misc,Laurel,MD,WSSC,93986.5,42.0,21.0,0
+663,scientist,McLean,VA,Coder Kids,38000.0,,,0
+673,data analyst,Fort George G Meade,MD,National Security Agency,75091.5,53.4,78.0,0
+746,misc,Silver Spring,MD,FDA Office of New Drugs,105969.5,,,1
+752,data other,McLean,VA,Request Technology,115000.0,,,1
+765,data engineer,Washington,DC,Jobspring Partners,140000.0,40.8,12.0,1
+784,statistician,Washington,DC,Analytic Recruiting,112500.0,51.0,2.0,1
+786,misc,Fort George G Meade,MD,National Security Agency,75091.5,53.4,78.0,0
+787,statistician,Fort George G Meade,MD,National Security Agency,75091.5,53.4,78.0,0
+827,misc,Alexandria,VA,G-Technology Group,34000.0,,,0
+828,misc,Gaithersburg,MD,"Sirnaomics,Inc",30000.0,,,0
+837,misc,Washington,DC,Central Intelligence Agency,86213.0,52.800003,83.0,0
+843,scientist,Washington,DC,Oak Ridge Associated Universities,58560.0,43.2,15.0,0
+852,data analyst,Fort George G Meade,MD,National Security Agency,116850.0,53.4,78.0,1
+907,misc,Arlington,VA,Oak Ridge Associated Universities,43600.0,43.2,15.0,0
+913,scientist,Sterling,VA,"Microbac Laboratories, Inc.",33000.0,,,0
+918,misc,Fort George G Meade,MD,National Security Agency,75091.5,53.4,78.0,0
+958,misc,Washington,DC,"Worldwide Staffing Exchange, LLC",50000.0,,,0
+971,scientist,Springfield,VA,"Total Environmental Concepts, Inc.",42000.0,,,0
+978,misc,Washington,DC,Central Intelligence Agency,76169.5,52.800003,83.0,0
